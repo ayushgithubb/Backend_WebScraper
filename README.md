@@ -1,5 +1,5 @@
 # Backend_WebScraper
-I have written a Python code that scrapes article details from The Verge website and saves them to both a CSV file and a SQLite database.
+I have written a Python code that scrapes article details from a website and saves them to both a CSV file and a SQLite database.
 =======================================================================================================================================================================
 The code uses the following libraries:
 	requests: to send HTTP requests and get the HTML content of the web page.
