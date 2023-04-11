@@ -1,8 +1,9 @@
 # Backend_WebScraper
+
 I have written a Python code that scrapes article details from a website and saves them to both a CSV file and a SQLite database.
+=======================================================================================================================================================================
 
 The code has been updated to handle nefarious bugs
-=======================================================================================================================================================================
 The code uses the following libraries:
 	requests: to send HTTP requests and get the HTML content of the web page.
 	BeautifulSoup: to parse the HTML content and extract the article details.
