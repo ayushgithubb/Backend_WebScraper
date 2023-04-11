@@ -7,7 +7,7 @@ import sqlite3
 import logging
 import datetime
 
-# This sets up logging to write messages to a file named scraper.log. The logging level is set to DEBUG, and the message format is specified to include the timestamp and log level.
+# This sets up logging to write messages to a file named Webscraper.log. The logging level is set to DEBUG, and the message format is specified to include the timestamp and log level.
 logging.basicConfig(filename='WebScraper.log', level=logging.DEBUG, format='%(asctime)s %(levelname)s:%(message)s')
 
 
